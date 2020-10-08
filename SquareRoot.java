@@ -16,7 +16,7 @@ public class SquareRoot {
         Scanner input = new Scanner(System.in);
 
         
-        // Ask the user for the diameter
+        // Ask the user to input a number
         System.err.print("Enter a number to square root: ");
         double radicand = input.nextDouble();
 

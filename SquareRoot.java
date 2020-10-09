@@ -4,9 +4,9 @@
  * Purpose: To calculate the square root of a positive number
  */
 
-// Imports DecimalFormat and Scanner 
-import java.text.DecimalFormat;
+// Imports Scanner and DecimalFormat
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 public class SquareRoot {
 	
